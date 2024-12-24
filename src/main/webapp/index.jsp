@@ -11,7 +11,7 @@
 	<h1 style="color: blue; font-size: 40px;" align="center">we integraded nexus also/cd</h1>
 	<h1 style="color: black; font-size: 40px;" align="center">we are done with nexus also</h1>
 	<h1 style="color: black; font-size: 80px;" align="center">Happpy</h1>
-	<h1 style="color: black; font-size: 140px;" align="center">wSuperrrrrkiaaaaaaaaarrrrrrrrrrrrrrrr</h1>
+	<h1 style="color: black; font-size: 140px;" align="center">wSuperrrrrkiaaaaaaaaarrrrrrrrrrrrrrr</h1>
 	<h1 style="color: black; font-size: 40px;" align="center">we are done with cron poll also</h1>
 	
 	
